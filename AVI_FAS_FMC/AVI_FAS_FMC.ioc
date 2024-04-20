@@ -402,5 +402,5 @@ VP_SYS_VS_tim1.Mode=TIM1
 VP_SYS_VS_tim1.Signal=SYS_VS_tim1
 board=NUCLEO-H755ZI-Q
 boardIOC=true
-rtos.0.ip=FREERTOS_M7
-rtos.1.ip=FREERTOS_M4
+rtos.0.ip=FREERTOS_M4
+rtos.1.ip=FREERTOS_M7
